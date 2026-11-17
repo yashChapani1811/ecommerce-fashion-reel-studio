@@ -1,13 +1,16 @@
 # E-Commerce Fashion Reel Studio — Support
 
 **Publisher:** Yash Chapani  
+**Private contact:** [YASHCHAPANI.57@GMAIL.COM](mailto:YASHCHAPANI.57@GMAIL.COM)  
 **Plugin:** [E-Commerce Fashion Reel Studio](https://chatgpt.com/plugins/plugins_6afc362302088191863fd7aa8500c903)
 
 ## Get help
 
 Use [GitHub Issues](https://github.com/yashChapani1811/ecommerce-fashion-reel-studio/issues/new/choose) to report a bug, ask a general support question or suggest an improvement. GitHub may require you to sign in to create an issue.
 
-**Privacy warning:** GitHub Issues are public. Do not post identifiable model photos, customer data, access tokens, financial information or other sensitive material. If the support request involves private data, do not attach it to a public issue; request a nonpublic contact method first.
+**Privacy warning:** GitHub Issues are public. Do not post identifiable model photos, customer data, access tokens, financial information or other sensitive material. If the support request involves private data, do not attach it to a public issue; email [YASHCHAPANI.57@GMAIL.COM](mailto:YASHCHAPANI.57@GMAIL.COM).
+
+For nonpublic support questions, contact [YASHCHAPANI.57@GMAIL.COM](mailto:YASHCHAPANI.57@GMAIL.COM).
 
 ## Frequently asked questions
 
