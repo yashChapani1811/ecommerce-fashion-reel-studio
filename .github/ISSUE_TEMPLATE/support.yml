@@ -1,0 +1,36 @@
+name: Support request
+description: Ask a question or report a non-sensitive issue with the plugin workflow
+title: "[Support] "
+labels:
+  - question
+body:
+  - type: markdown
+    attributes:
+      value: |
+        E-Commerce Fashion Reel Studio support. GitHub issues are public.
+        **Do not share passwords, private product/model images, personal data, or customer information here.**
+  - type: dropdown
+    id: request_type
+    attributes:
+      label: What do you need help with?
+      options:
+        - Product reference accuracy
+        - Model identity / reference prompts
+        - Google Flow phase prompts
+        - Video continuity planning
+        - General question
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: Describe the issue without confidential information
+      description: Please do not attach private files or include personal information.
+    validations:
+      required: true
+  - type: textarea
+    id: expectation
+    attributes:
+      label: What did you expect?
+    validations:
+      required: false
