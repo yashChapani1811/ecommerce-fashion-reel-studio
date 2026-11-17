@@ -9,7 +9,7 @@
 **Current specialization:** Indian sarees  
 **Status:** Private ChatGPT plugin; preparing public directory submission.
 
-[Open the ChatGPT plugin](https://chatgpt.com/plugins/plugins_6afc362302088191863fd7aa8500c903) · [Support](SUPPORT.md) · [Privacy policy draft](PRIVACY_POLICY.md) · [Terms draft](TERMS_OF_SERVICE.md)
+[Open the ChatGPT plugin](https://chatgpt.com/plugins/plugins_6afc362302088191863fd7aa8500c903) · [Support](SUPPORT.md) · [Privacy policy](PRIVACY_POLICY.md) · [Terms of Service](TERMS_OF_SERVICE.md)
 
 ## What it does
 
@@ -42,8 +42,8 @@ Explore [example prompts and expected outputs](examples/EXAMPLE_PROMPTS.md).
 ## Help and publishing information
 
 - [Support and common questions](SUPPORT.md)
-- [Privacy policy — draft awaiting publisher approval](PRIVACY_POLICY.md)
-- [Terms of service — draft awaiting publisher approval](TERMS_OF_SERVICE.md)
+- [Privacy Policy](PRIVACY_POLICY.md)
+- [Terms of Service](TERMS_OF_SERVICE.md)
 - For questions about the plugin's behavior, [open a GitHub support issue](https://github.com/yashChapani1811/ecommerce-fashion-reel-studio/issues/new/choose). **Do not post private photos, personal information or credentials in public issues.**
 
-**Publisher:** Yash Chapani. This repository provides public documentation and help pages for the ChatGPT plugin; it is not a separate video-generation service.
+**Publisher:** Yash Chapani · **Contact:** [YASHCHAPANI.57@GMAIL.COM](mailto:YASHCHAPANI.57@GMAIL.COM). This repository provides public documentation and help pages for the ChatGPT plugin; it is not a separate video-generation service.
