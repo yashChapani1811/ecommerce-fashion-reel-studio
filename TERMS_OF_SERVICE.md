@@ -1,49 +1,46 @@
-# Terms of Service — Draft for Publisher Approval
-
-> **DRAFT — NOT YET APPROVED OR ADOPTED.** This text is a proposed set of terms for E-Commerce Fashion Reel Studio, not a legal statement currently agreed by the publisher. Yash Chapani must review all obligations and decide on applicable legal terms before public submission.
+# Terms of Service
 
 **Product:** E-Commerce Fashion Reel Studio  
 **Publisher:** Yash Chapani  
-**Effective date:** To be set after approval
+**Effective date:** 17 November 2026  
+**Contact:** [YASHCHAPANI.57@GMAIL.COM](mailto:YASHCHAPANI.57@GMAIL.COM)
 
-## 1. Service description
+## 1. The service
 
-E-Commerce Fashion Reel Studio provides instructional content and prompt-generation workflows for planning saree-focused fashion Reels inside ChatGPT. The plugin does not directly generate, edit, export, upload, or publish images or videos; it does not operate Google Flow. The output is production guidance, not an assurance of final video quality.
+E-Commerce Fashion Reel Studio is a skills-only ChatGPT plugin for creating planning materials and prompts for e-commerce fashion Reels, currently focused on sarees. It can produce product-reference ledgers, fixed adult-model descriptions, storyboard plans, 10-second Google Flow prompt drafts, phase handoffs and editing checklists.
 
-## 2. User responsibilities — proposed
+The plugin **does not** directly create or render videos, operate Google Flow, edit or publish social-media posts, or provide a guarantee of image or garment fidelity.
 
-Users should upload only images and materials they have permission to use. They remain responsible for assessing the truthfulness of product descriptions, legal rights to photographs and depicted people, compliance with relevant platform rules, and the final published creative work.
+## 2. Using the plugin
 
-## 3. Generated content — proposed
+You are responsible for the prompts, photos, and other materials you upload and for ensuring you have the permissions needed to use them. Respect applicable laws, the rights of depicted people, intellectual-property rights, ChatGPT's terms, and any policies of publishing or video-generation platforms you choose to use.
 
-Generative tools can introduce inaccuracies, including changes to product colors, motifs, model identity, fabric movement and continuity. Users should compare all generated outputs against original product references and check legal or commercial claims before posting. The plugin does not guarantee exact reproducibility or any particular commercial result.
+You may use production briefs and prompt drafts generated for you in lawful personal or commercial creative work, subject to rights in your inputs and the applicable terms of ChatGPT and third-party services. These terms do not grant rights in images or materials belonging to others.
 
-## 4. Availability and changes — proposed
+## 3. Accuracy and review
 
-Features may change or be discontinued. A third-party platform, including ChatGPT or Google Flow, may apply its own terms, availability restrictions and usage limits.
+AI-generated planning material may contain mistakes or omit important details. In particular, resulting images and videos created elsewhere may change saree colors, motifs, embroidery, fabric appearance, jewelry, facial identity, movement, or continuity. Review every output against your original product photographs before publishing or making product claims.
 
-## 5. Payments and subscriptions — not yet confirmed
+The plugin cannot promise specific video quality, perfectly matched frames, sales, engagement, or business results.
 
-The current plugin package has no built-in checkout or payment tool. **Publisher confirmation required** on whether the plugin or any associated service has paid features or direct purchases. This section must be updated before adopting these terms.
+## 4. Third-party services
 
-## 6. Intellectual property and permitted use — publisher decision required
+ChatGPT, Google Flow, Instagram, GitHub, and other services are independently operated. Their availability, features, fees, rules, and privacy practices are governed by their own terms. Use of this plugin does not establish a relationship with or endorsement by these third parties.
 
-Confirm how the publisher licenses the plugin's instructions and how users may use generated production briefs. Do not assume this document grants rights in uploaded photographs or in third-party model/video outputs.
+## 5. Payments
 
-## 7. Legal disclaimers, liability, and governing law — publisher decision required
+The plugin itself does not offer a publisher-operated checkout, purchase flow, or payment collection. Charges from ChatGPT or separate creative platforms, if any, are determined by those platforms.
 
-Before adoption, the publisher should approve suitable warranty and limitation clauses, identify the relevant jurisdiction, and specify how users can contact the publisher about contractual matters. No governing law, liability limitation or legal waiver is asserted in this draft.
+## 6. Availability and updates
 
-## 8. Contact and updates
+The plugin and its instructions may be updated, corrected, paused, or discontinued. Any materially updated terms will be published with a new effective date. Use is subject to availability in the relevant ChatGPT product and account.
 
-Use [Support](SUPPORT.md) for non-sensitive help. Private legal correspondence requires a suitable contact channel to be approved by the publisher before this document is finalized. The final terms must show an effective date.
+## 7. Support and privacy
 
----
+For general support, visit [Support](SUPPORT.md). For private concerns, legal questions, or privacy inquiries, contact [YASHCHAPANI.57@GMAIL.COM](mailto:YASHCHAPANI.57@GMAIL.COM). Do not share sensitive information in public GitHub issues.
 
-### Publisher checks before adopting these terms
+See the [Privacy Policy](PRIVACY_POLICY.md) for information about data handling.
 
-- [ ] Confirm supported users and eligibility conditions.
-- [ ] Confirm whether any payments, purchases, subscriptions, or paid features exist.
-- [ ] Decide permissions for reuse of generated briefs and plugin documentation.
-- [ ] Approve user obligations, disclaimers, liability, jurisdiction, and private legal contact method.
-- [ ] Add effective date, remove the DRAFT warning, and approve publication.
+## 8. Applicable law
+
+These terms do not designate a special dispute forum or exclude rights and protections under applicable law.
