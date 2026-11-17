@@ -1,51 +1,42 @@
-# Privacy Policy — Draft Pending Final Publisher Approval
-
-> **Publication draft.** Publisher Yash Chapani has confirmed the data-handling facts below for the current skills-only release. This is **not yet an adopted privacy policy**: a private contact method and final approval are still needed.
+# Privacy Policy
 
 **Product:** E-Commerce Fashion Reel Studio  
 **Publisher:** Yash Chapani  
-**Last updated:** 17 November 2026  
-**Effective date:** To be set when approved
+**Effective date:** 17 November 2026  
+**Privacy and support contact:** [YASHCHAPANI.57@GMAIL.COM](mailto:YASHCHAPANI.57@GMAIL.COM)
 
-## 1. Scope and purpose
+## 1. About the plugin
 
-E-Commerce Fashion Reel Studio is a ChatGPT skills-only plugin that helps people plan saree-focused Instagram Reels. It analyzes user-provided photographs and instructions within ChatGPT and produces production plans, image prompts, video prompts, and quality-check instructions. It does not itself generate or render videos or connect to Google Flow.
+E-Commerce Fashion Reel Studio is a skills-only plugin for ChatGPT that helps users plan reference-accurate saree Instagram Reels. It provides product-reference analysis, model-reference prompts, storyboards, Google Flow prompt drafts, and editing guidance. The plugin does not directly generate or upload videos or communicate with Google Flow.
 
-## 2. Publisher data collection
+## 2. Information processed within ChatGPT
 
-**The publisher has confirmed that this plugin does not independently collect, receive, store, or retain users' uploaded photos, ChatGPT prompts, or personal information outside ChatGPT.** The packaged plugin contains instructions, Markdown reference materials, and templates, with no independent publisher-operated data collection endpoint, analytics pipeline, payment integration, or video-generation server.
+When you choose to use the plugin, you may submit text prompts, saree photographs, model images, video frames, and other creative materials to ChatGPT. ChatGPT processes that content under the applicable OpenAI terms, privacy policy, and account controls. The publisher does not determine ChatGPT's independent retention or deletion practices.
 
-This statement covers the plugin's current implementation, not every feature or service provided by ChatGPT or by independent third-party tools.
+**The publisher confirms that the plugin does not automatically collect, receive, store, or retain your uploaded images, prompts, or personal information outside ChatGPT.** The current plugin does not include a publisher-run analytics service, data-collection server, payment endpoint, or video-generation backend.
 
-## 3. ChatGPT processing and retention
+## 3. Voluntary support communications
 
-Images, text prompts, model references, video frames, and generated production briefs supplied in a ChatGPT conversation are processed within ChatGPT. The publisher does not control ChatGPT's data processing, storage, retention, or deletion. Consult OpenAI's applicable privacy policy and your ChatGPT privacy controls to understand those practices and manage conversation data.
+If you independently contact [YASHCHAPANI.57@GMAIL.COM](mailto:YASHCHAPANI.57@GMAIL.COM), you voluntarily disclose your email address and any information included in your message. The publisher may use this information to respond to and manage your request, and the email provider may process or store those messages under its own privacy rules. For questions about a support message you sent, including requests for removal from the publisher's mailbox where practicable, contact the same address.
 
-Because the publisher does not maintain a separate database of user photographs or ChatGPT prompts, the publisher does not have an independent copy of those items to delete.
+If you independently create a public issue in the [GitHub support repository](https://github.com/yashChapani1811/ecommerce-fashion-reel-studio/issues), your account name, issue text, and any attached content may be publicly accessible and processed or stored by GitHub. **Never post private photographs, customer details, passwords, or sensitive personal information in public GitHub Issues.** Use email instead for nonpublic support requests.
 
-## 4. Voluntary public GitHub support
+These voluntary communications are separate from automatic processing by the ChatGPT plugin.
 
-Users can independently submit public issues in the [support repository](https://github.com/yashChapani1811/ecommerce-fashion-reel-studio/issues). If they choose to do so, their GitHub username, issue content, and any posted attachments may be visible to the public and may be stored by GitHub under its policies and account controls.
+## 4. Third-party creative tools
 
-**Do not put customer information, private model or product photos, login credentials, contact details, or confidential data in a public GitHub issue.** For sensitive support or privacy questions, do not publish the details publicly.
+This plugin may generate instructions or prompts that you can independently copy into Google Flow or other services. It does not automatically transmit your images, text, or outputs to those platforms. If you choose to use an external service, that service's terms and privacy practices apply.
 
-## 5. Google Flow and other third-party services
+## 5. Data access and requests
 
-The plugin may write prompts that you can choose to copy into Google Flow or another creative platform. The plugin does not send users' content to those services. If you independently use another service, that service's terms and privacy practices apply to the information you provide there.
+Because the publisher does not maintain a separate database of your ChatGPT conversations, prompts, or uploaded images, privacy and deletion controls for those materials are available through ChatGPT and OpenAI. For publisher-held support emails or questions about this policy, contact [YASHCHAPANI.57@GMAIL.COM](mailto:YASHCHAPANI.57@GMAIL.COM). Requests involving public GitHub issues may also need to be handled under GitHub's policies.
 
-## 6. Privacy questions and requests
+## 6. Policy changes
 
-General non-sensitive questions may be submitted through [Support](SUPPORT.md). **A private contact channel for questions involving personal information has not yet been approved for public listing.** Until one is confirmed, do not submit private information through public GitHub issues.
+If plugin features or the publisher's data practices change, this notice may be revised. The updated policy will show its effective date. This policy describes the version of the plugin available as of the date above.
 
-## 7. Changes to these practices
+## 7. Contact
 
-If the plugin later adds independent data collection, analytics, external integrations, or other changes that affect privacy, the publisher must update this document before making related representations to users.
-
----
-
-### Publisher approval checklist (not part of an adopted policy)
-
-- [x] Confirmed: no independent data collection/storage outside ChatGPT, except information users voluntarily submit to public GitHub issues.
-- [x] Explained: third-party ChatGPT and GitHub processing remain governed by their own policies.
-- [ ] Identify an approved private privacy/contact channel for sensitive questions.
-- [ ] Review accuracy, add effective date, and explicitly approve the final published policy.
+**Yash Chapani**  
+[YASHCHAPANI.57@GMAIL.COM](mailto:YASHCHAPANI.57@GMAIL.COM)  
+[Public support documentation](SUPPORT.md)
